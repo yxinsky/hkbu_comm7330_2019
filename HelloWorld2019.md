@@ -1,1 +1,1 @@
-## This is a markdown file for HKBU COMM7330. **My ID is <19451342>!**
+## This is a markdown file for HKBU COMM7330. *My ID is <19451342>!*
